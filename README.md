@@ -1,6 +1,6 @@
 **✨LG-NV/LG-NV✨** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=LG-NV.LG-NV)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
