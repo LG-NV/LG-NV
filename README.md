@@ -2,6 +2,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LG-NV.LG-NV)
 
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/686807996420063232/1031835119146782730/zoro.gif" width="550" height="380" />
+
 - 🔭 I’m currently working on Rdem/Fivem;
 - 🌱 I’m currently learning LUA;
 - 💬 ask me about anything, i am happy to help;
