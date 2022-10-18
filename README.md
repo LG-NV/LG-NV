@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**LG-NV/LG-NV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✨LG-NV/LG-NV✨** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
